@@ -1,116 +1,124 @@
-# Java Programs With Outputs
+### Java Program for List Operations with ArrayList and LinkedList
 
-This repository contains Java programs along with their respective outputs for better understanding. It includes fundamental Java exercises and GUI-based programs, as well as servlets and database connectivity examples.
-
----
-
-## 📌 Program 01: ArrayList and LinkedList
-
-- [ArrayList and LinkedList Output 1](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/LinkedListOperation(1).png)
-- [ArrayList and LinkedList Output 1](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/LinkedListOperation.png)
+- [ArrayList and LinkedList Output 1]()
 
 
-### 📝 Exercise - ArrayList
+##  Program on ArrayList 
 
-- [ArrayList_1](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/ArrayListP1.png)
-- [ArrayList_2](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/ArrayListP2.png)
-- [ArrayList_3](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/ArrayListP3.png)
-- [ArrayList_4](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/ArrayListP4.png)
-- [ArrayList_5](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/ArrayListp5.png)
+-[ SearchColor output]()
+-[removeColor output]()
+-[sortColor output]()
+-[colorSublist output]()
+-[removeByIndex output]()
 
-### 📝 Exercise - LinkedList
+##  Program on LinkedList 
 
-- [LinkedList_1](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/LinkedListP6.png)
-- [LinkedList_2](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/LinkedListP7.png)
-- [LinkedList_3](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/LinkedListP8.png)
-- [LinkedList_4](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/LinkedListP9.png)
-- [LinkedList_5](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/LinkedListP10.png)
-
----
-
-## 📌 Program 02: String Operations
-
-- [String Operation](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringOperation.png)
-- [String BufferBuilder](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringBufferBuilder.png)
-
----
-
-## 📌 Program 03: String Handling Operations
-
-### Program 3a
-- [StringHandling StringOperation](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingStringOperation.png)
+-[ LinkedListIterator output]()
+-[reverseLinkedList output]()
+-[InsertAtTheEnd output]()
+-[LinkedListDisplay output]()
+-[SwapElements output]()
 
 
-### Program 3b&c String Excercise Program
+##  Program on String 
 
-### 📝 Exercises
+-[StringHandlingFunction output]()
+-[PerformanceTest output]()
 
-- [StringHandling null](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3null.png)
-- [StringHandling SubString](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingSubString.png)
-- [StringHandling  reverse](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingreverse.png)
-- [StringHandling palindrome](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3palindrome.png)
-- [StringHandling WhiteSpace](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingWhiteSpace.png)
-- [StringHandling capital](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3capital.png)
-- [StringHandling Truncate](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingTruncate.png)
-- [StringHandling numeric](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3numeric.png)
-- [StringHandling RandomString](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3RandomString.png)
-- [StringHandling Word](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingWord.png)
 
----
+##  Program on StringHandlingOperation
 
-## 📌 Program 4: Swing Programs
+-[ StringHandlingDemo output]()
 
-- [Swings Swing](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingsLab4Swing.png)
-- [Swings Button](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingsLab4Button.png)
-- [Swings Image](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingsLab4Image.png)
 
----
+##  Program on String_Exercise_Programs 
 
-## 📌 Program 5: Multiple GUI Programs
+-[ isNullorEmpty output]()
+-[ CountOccurence output]()
+-[ reverseString output]()
+-[ Palindrome output]()
+-[ removeWhiteSpace output]()
 
-- [Swing JList](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5JList.png)
-- [Swing TabbedPannel](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5TabbedPannel.png)
-- [Swing Country](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5Country.png)
-- [Swing ColorTabbed](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5ColorTabbed.png)
 
----
+##  Program on String-exercise-progrmas 
 
-## 📌 Program 6: Java Servlets
+-[ CapitalizeWord output]()
+-[ truncate output]()
+-[ isNumeric output]()
+-[ RandomString output]()
+-[ countWord output]()
 
-- [Factorial Servlet](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/Servlet6a.png)
-- [Cookie Servlet](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/Servlet6b.png)
-- [Prime Check Servlet](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/Servlet6c.png)
 
----
+##  Program on Swing 
 
-## 📌 Program 7: Session & Cookie Management
+-[ HelloSwing output]()
+-[ Swingcountry output]()
+-[ ImageButton output]()
 
-- [Session Management](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SessionManagement.png)
-- [Cookie Management](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/CookieManagement.png)
 
----
+##  Program on Swings
 
-## 📌 Program 8: MySQL Integration
+-[ CountryList output]()
+-[ TabbedPane output]()
+-[ CountryCapital output]()
+-[ ColorTabbed output]()
 
-- [Coffee Insert](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/JDBCCoffee8a.png)
-- [Update Coffee 1](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/JDBCCoffee8b.png)
-- [Update Coffee 2](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/JDBCCoffee8b2.png)
-- [Employee Insert](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/JDBCEmployee8c.png)
-- [Employee Update](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/JDBCEmployee8d.png)
+
+##  Program on Servlet 
+
+-[ Factorial output]()
+-[ Visitingpage output]()
+-[ Prime output]()
+
+
+##  Program on Cookie and Session
+
+
+-[ Session output]()
+-[ Cookie output]()
 
 
 
-## 📌 Program 9: MySQL Selection and Deletion
-
-- [Coffee Deletion](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/JDBCCoffee9a.png)
-- [Coffee Statring With Letter](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/JDBCCofFee9b.png)
-- [Employee Starting with Letter](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/JDBCmployee9c.png)
-- [Delete Employee](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/JDBCEmployee9d.png)
+##  Program on Coffee Table
 
 
+-[ coffee8a output1]()
+-[ Coffee8a output2]()
+-[ coffee8b output1]()
+-[ Coffee8b output2]()
+-[ coffee9a output]()
+-[ Coffee9b output]()
 
----
 
-## 📚 Author
+##  Program on Employee
 
-[Nisarga0904](https://github.com/Nisarga0904)
+
+-[8c_InsertEmployee output]()
+-[8d_updateEmployee output]()
+-[9c_Filter output1]()
+-[9c_Filter output2]()
+-[9d_DeleteEmployee output]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
