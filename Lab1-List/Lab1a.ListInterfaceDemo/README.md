@@ -25,7 +25,7 @@ This Java program illustrates how to use `ArrayList` and `LinkedList` from Java'
 12. Sublist – Create a sublist from the original list.
 13. Clearing the list – Remove all elements from the list.
 
-- [ArrayList and LinkedList Output 1]()
+- [ArrayList and LinkedList Output 1](https://github.com/Keerthana2M/java/blob/main/Lab1-List/Lab1a.ListInterfaceDemo/ListInterface_output.png)
 
 
 
